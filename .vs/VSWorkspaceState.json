@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api-server",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\actions",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\reducers",
+    "\\frontend\\src\\Router"
+  ],
+  "SelectedNode": "\\frontend\\src\\reducers\\commentReducer.js",
+  "PreviewInSolutionExplorer": false
+}

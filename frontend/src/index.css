@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App-title {
+    padding: 10px 0;
+    background: #EEEEEE;
+    text-align: center;
+}
+
+.sub-header {
+    background-color: #23527C;
+    padding: 2px 10px 2px 30px;
+}
+.sort{
+    float:right;
+    padding-right:10px;
+    position:relative;
+    bottom:64px;
+    right:190px;
+}
+
+.post-header{
+    text-align:center
+}
+.title{
+    position:relative;
+    left:80px;
+}
+
+.comment-title{
+    text-decoration:underline;
+}
+
+.category-container{
+    text-align:center;
+}
+
+.form{
+    text-align:center;
+}
+
+.add-post {
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+}
+
+.add-post {
+    display: block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #2e7d32;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 28px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    color:black;
+}
+
+.error{
+    text-align:center;
+        margin:30px;
+}
+
